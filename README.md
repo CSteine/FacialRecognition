@@ -1,2 +1,0 @@
-# FacialRecognition
-Created with CodeSandbox
